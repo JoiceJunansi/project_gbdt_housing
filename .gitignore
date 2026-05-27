@@ -1,0 +1,9 @@
+.DS_Store
+.Rhistory
+.RData
+.Rproj.user/
+.Ruserdata
+
+# Optional caches
+__pycache__/
+*.pyc

@@ -1,0 +1,2 @@
+"model","mae","rmse","r2","mape_percent","best_n_trees","best_interaction_depth","best_shrinkage","best_n_minobsinnode","best_bag_fraction","runtime_seconds"
+"GBDT (gbm)",31802.6509235251,48227.6545034857,0.834538040683022,17.7523520348567,1000,5,0.1,10,0.8,184.153079986572
